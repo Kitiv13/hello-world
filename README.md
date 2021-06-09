@@ -1,3 +1,3 @@
 # hello-world
 
-i am learn python
+I learn python
